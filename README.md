@@ -1,6 +1,6 @@
 ## About TWS
 <hr>
-TWS is a web application to make a travelling reservation website by Node.js and react. TWS has used these packages inside of it. 
+TWS is a web application to make a travelling reservation website by Node.js and React. TWS has used these packages inside of it. 
 
 - Express [Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/).
 - Database  [MongoDB](https://www.mongodb.com/).
